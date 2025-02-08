@@ -1,0 +1,12 @@
+
+C:\Windows\system32>cd c:\Users\Professional\PycharmProjects\Old_Anna\.venv\Scripts
+
+
+
+c:\Users\Professional\PycharmProjects\Old_Anna\.venv\Scripts>pyuic5 c:\Users\Professional\PycharmProjects\Old_Anna\Nastya_diplom\Messager.ui -o c:\Users\Professional\PycharmProjects\Old_Anna\Nastya_diplom\Messager.py
+
+c:\Users\Professional\PycharmProjects\Old_Anna\.venv\Scripts>pyuic5 c:\Users\Professional\PycharmProjects\Old_Anna\Nastya_diplom\Login_pas.ui -o c:\Users\Professional\PycharmProjects\Old_Anna\Nastya_diplom\Login_pas.py
+
+c:\Users\Professional\PycharmProjects\Old_Anna\.venv\Scripts>pyuic5 c:\Users\Professional\PycharmProjects\Old_Anna\Nastya_diplom\Main_logining.ui -o c:\Users\Professional\PycharmProjects\Old_Anna\Nastya_diplom\Main_logining.py
+
+c:\Users\Professional\PycharmProjects\Old_Anna\.venv\Scripts>
